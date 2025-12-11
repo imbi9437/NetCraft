@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 4633f52b-b9de-4865-8e3c-fecf16ba6fc9
+    AppIdFusion: 
+    AppIdChat: eeb53591-43c5-4f3f-ac00-8aa0d9ce5a43
+    AppIdVoice: 4633f52b-b9de-4865-8e3c-fecf16ba6fc9
+    AppVersion: 0.0.1
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: 
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - CantHearYou
+  - ChangeColour
+  - ClickRpc
+  - DestroyRpc
+  - HeresWhy
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - BuildStructureRPC
+  - ChangeHPRPC
+  - ChangeHungerRPC
+  - ChangeStaminaRPC
+  - ChangeThirstRPC
+  - DestroyStructureRPC
+  - DropItemRPC
+  - HarvestResourceRPC
+  - PickupItemRPC
+  - RegenerateResourceRPC
+  - SetItemDataRPC
+  - UseItemRPC
+  - CompleteCooperationRPC
+  - CompleteItemShareRPC
+  - EndPvPRPC
+  - PvPDamageRPC
+  - ShareItemRPC
+  - StartCooperationRPC
+  - StartPvPRPC
+  - ChangeDayNightRPC
+  - ChangeSeasonRPC
+  - ChangeWeatherRPC
+  - EndGameEventRPC
+  - TriggerGameEventRPC
+  - SyncWorldStateRPC
+  - BossKilledRPC
+  - BossTakeDamageRPC
+  - DealDamageRPC
+  - MonsterKilledRPC
+  - MonsterTakeDamageRPC
+  - SpawnBossRPC
+  - SpawnMonsterRPC
+  - RPC_UpdateMonsterBatch
+  - RPC_UpdatePlayerData
+  - RPC_UpdatePlayerPosition
+  - AttackPlayerRPC
+  - FireProjectile
+  - Hit
+  - UpdateProjectileTarget
+  - HideSmashDecal
+  - PerformAttackRPC
+  - PerformInteractRPC
+  - PlayAttackAnimationRPC
+  - PlayInteractAnimationRPC
+  - RequestCreatePlayer
+  - ShowSmashDecal
+  - UpdateSmashDecalSize
+  - GetPlayerData
+  - SetTriggerAnimationRPC
+  - Die
+  - EnvironmentEvent
+  - SavePlayerData
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

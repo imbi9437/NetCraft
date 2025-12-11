@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cacba71dc4082e47b410c501eac4e1d, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  uid: 0
+  itemName: 
+  description: 
+  category: 3
+  rarity: 0
+  visualPrefab: {fileID: 203093951140853599, guid: 02233d3c799d9b746bcfa1a8b34a3ade,
+    type: 3}
+  icon: {fileID: 21300000, guid: 1181548635ce29744b7a925e3dde2fab, type: 3}
+  features:
+  - feature: {fileID: 11400000, guid: 1525d95710123b746ba70217d686322b, type: 2}
+    param:
+      rid: 464233923991044100
+  references:
+    version: 2
+    RefIds:
+    - rid: 464233923991044100
+      type: {class: EquipParam, ns: _Project.Script.Items.Feature, asm: Assembly-CSharp}
+      data:
+        type: 2
+        modifiers:
+        - value: 5
+          statType: 5
+          modifierType: 0

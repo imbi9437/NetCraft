@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b62e07d6490ffe64e94b6f5c172182a9, type: 3}
+  m_Name: AxeRecipe
+  m_EditorClassIdentifier: 
+  recipeId: 
+  order: 0
+  tech: 2
+  stationType: 3
+  unlockRequirement: 0
+  time: 5
+  tier: 0
+  ingredients:
+  - item: {fileID: 11400000, guid: 7d9702d6eb105874085cbf8be9f7034c, type: 2}
+    count: 3
+  - item: {fileID: 11400000, guid: f060ecc343e1b89489d52043c233a1e7, type: 2}
+    count: 2
+  results:
+  - item: {fileID: 11400000, guid: aea687670bab3804cbdc904eaff42129, type: 2}
+    count: 1

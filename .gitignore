@@ -97,3 +97,18 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Premium Assets
+
+/[Aa]ssets/[Ff]irebase/[Pp]lugins/x86_64*
+/[Aa]ssets/[Pp]lugins/[Aa]ndroid/[Ff]irebaseApp.androidlib/res/values/google-services.xml*
+/[Aa]ssets/[Pp]lugins/[Dd]emigiant*
+/[Aa]ssets/[Pp]lugins/[Ee]asy performant outline*
+/[Aa]ssets/[Pp]lugins/[Rr]ootMotion*
+/[Aa]ssets/[Pp]olygonElvenRealm*
+/[Aa]ssets/[Pp]olygonFantasyKingdom*
+/[Aa]ssets/[Pp]olygonNature*
+/[Aa]ssets/RPGMonsterBundlePolyart*
+/[Aa]ssets/[Ss]treamingAssets/google-services-desktop.json*
+/[Aa]ssets/Synty*
+/[Aa]ssets/google-services.json*

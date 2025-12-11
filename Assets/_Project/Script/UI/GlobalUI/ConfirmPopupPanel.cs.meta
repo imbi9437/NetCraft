@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/_Project/CHJ/LogPanelController.cs.meta
+guid: d1bdee8a2e323d04bbaf777549034371
+========
+guid: e339a16a94d39db41991ebc35c794c10
+>>>>>>>> NewCHJ:Assets/_Project/Script/UI/GlobalUI/ConfirmPopupPanel.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

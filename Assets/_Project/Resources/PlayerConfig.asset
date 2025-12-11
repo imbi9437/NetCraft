@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef528217ecc8ebb43b1d87e16beb2863, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: 
+  initialHealth: 100
+  initialHunger: 100
+  initialSanity: 100
+  initialSpeed: 5
+  initialAttack: 10
+  initialColdResistance: 50
+  healthRegenRate: 0.1
+  hungerDecayRate: 0.1
+  sanityDecayRate: 0.05
+  coldDecayRate: 0.02
+  hungerDamageRate: 1
+  coldDamageRate: 0.5
+  sanityDamageRate: 0.2
+  moveSpeed: 5
+  rotationSpeed: 10
+  interactionRange: 2
+  maxSlots: 20
+  maxStackSize: 99
+  networkSyncInterval: 1
+  enableNetworkOptimization: 1

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b62e07d6490ffe64e94b6f5c172182a9, type: 3}
+  m_Name: CampFireRecipe 0
+  m_EditorClassIdentifier: 
+  recipeId: 
+  order: 0
+  tech: 2
+  stationType: 1
+  unlockRequirement: 0
+  time: 5
+  tier: 0
+  ingredients:
+  - item: {fileID: 11400000, guid: 2ec534c69bfff9642b89b0eb46f9c50d, type: 2}
+    count: 3
+  results:
+  - item: {fileID: 11400000, guid: 1928c9ace19c945449dd6de27535e56d, type: 2}
+    count: 1
