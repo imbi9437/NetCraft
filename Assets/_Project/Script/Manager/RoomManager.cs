@@ -22,7 +22,7 @@ namespace _Project.Script.Manager
         [Header("방 설정")]
         [SerializeField] private int maxPlayersPerRoom = 4;
         [SerializeField] private bool isVisible = true;
-        [SerializeField] private bool isOpen = true;
+        [SerializeField ] private bool isOpen = true;
 
         // 헬퍼 클래스들
         private RoomOperationHandler _operationHandler;
